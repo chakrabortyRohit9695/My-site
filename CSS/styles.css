@@ -1,0 +1,127 @@
+body{
+    background-color: white;
+    text-align: center;
+    margin: 0%;
+    margin-top: 0%;
+    font-family: 'Merriweather', serif;
+}
+div{
+    background-color: white;    
+}
+/*CLASS elements*/
+.cloud1{
+    position: absolute;
+    top: 10%; left: 60%;
+}
+.cloud2{
+    position: absolute;
+    top: 40%; left: 20%;
+}
+
+.top-container{
+    background-color:  #EAF6F6;
+    height: 90%; 
+    padding: 7% 5% 0%;
+    
+}
+.middle-container{
+    padding: 0 0 2% 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    
+    padding: 5% 0 0 0;
+}
+.profile{
+    width: 40%;
+    margin: 50px auto 80px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2em;
+}
+.profile-pic{
+    width: 40%;
+}
+.computer-image{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.learning-image{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.footer-link{
+    text-decoration: none;
+    margin: 5%;
+    padding: 5% 1.5% 5%;
+}
+.contact-messsage{
+    width: 40%;
+    margin: 3rem auto 2rem;
+}
+.btn{
+    background-color: #11999E;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 1em;
+    margin: 5%;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+}
+.copy-write{
+    color: #EAF6F6;
+    padding: 0.75rem 0;
+}
+/*TAG elements*/
+h1{
+    /*display: inline;*/
+    margin: 50px 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 5%;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+}
+a:hover{
+    color: #EAF6F6;
+}
+p{
+    line-height: 2rem; 
+}
+table{
+    position: relative;
+    left: 40%;
+}
+hr{
+    border: none;
+    border-top-style: dotted;
+    border-color: #dbe2ef;
+    border-width: 0.4em;
+    background-color:#f9f7f7;
+    width: 5%;
+}
